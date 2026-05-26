@@ -394,6 +394,7 @@ printf("\n");
 }
 return 0;
 }
+output #
 <img width="485" height="255" alt="image" src="https://github.com/user-attachments/assets/f555ddb0-7458-4c2c-a0bb-80d573dc15a0" />
 
 # Result:
